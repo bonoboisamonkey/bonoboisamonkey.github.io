@@ -1,1 +1,1 @@
-# Bonobos are the cutest and most relaxed and chilled living in our planer. They are not just monkeys. 
+# Bonobos are the cutest, most relaxed and chilled creatures in our planet. They are not just monkeys. Be nice, be Bonobo.
