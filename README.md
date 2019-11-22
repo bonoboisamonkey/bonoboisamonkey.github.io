@@ -1,13 +1,8 @@
 # bonoboisamonkey.github.io
 <html>
   <head>
-    <style>
-      p{
-      color: red;
-      }
-    </style>
   </head>
   <body>
-    <p> welcomme</p>
+    <p style="color:red"> welcomme</p>
   </body>
   </html
